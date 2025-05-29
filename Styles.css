@@ -1,0 +1,153 @@
+Pular para o conteúdo principal
+Google Sala de Aula
+Sala de Aula
+QUA - Gerência de Configuração e Controle de Versão: Entrega contínua (84)
+84
+Início
+Agenda
+Minhas inscrições
+Pendentes
+M
+MD: Relações e Indução Matemática
+Grupo: 128 Sala: 1037
+P
+Projeto Interdisciplinar I: PI II Grupo: 134 SEXTO 20:45
+6
+6_Processo e Desenvolvimento de Software: Introdução ao Processo de Desenvolvimento de Software
+2025.B2 [ESb.E1] _SL.1038
+[
+[B2] Grupo: 52 - Desenvolvimento de Aplicativos Móveis: Prototipação de aplicações móveis
+[B2] Grupo: 52 - Desenvolvimento de Aplicativos Móveis: Prototipação de aplicações móveis
+Q
+QUA - Gerência de Configuração e Controle de Versão: Entrega contínua (84)
+84
+[
+[MD] Quantificadores e sentenças abertas
+Grupo: 126 - ES B
+5
+5_LPA: Estrutura de Dados & SubRotinas
+2025.B2 [ESb.E1] _Lab 6 & SL.1037
+E
+E1 2025 B - B2 - Arquitetura e Organização de Computadores Nível Lógico e Digital ENSW
+Turmas arquivadas
+Configurações
+Mural
+Atividades
+Pessoas
+QUA - Gerência de Configuração e Controle de Versão: Entrega contínua (84)
+84
+
+Meet
+Próximas atividades
+Nenhuma atividade para a próxima semana!
+
+Escreva um aviso para sua turma
+
+Aviso: "Estrutura inicial do site"
+Tiago Ravache
+Criado em: 21:1221:12
+Estrutura inicial do site
+
+index.html
+HTML
+
+styles.css
+CSS
+
+Adicionar comentário para a turma...
+
+Atividade: "Link para o repositório do github para o desenvolvimento das aulas"
+Tiago Ravache postou uma nova atividade: Link para o repositório do github para o desenvolvimento das aulas
+Criado em: 21 de mai.21 de mai. (editado: 20:59)
+Atividade: "Qual o tipo de mudança na versão"
+Tiago Ravache postou uma nova atividade: Qual o tipo de mudança na versão
+Criado em: 14 de mai.14 de mai.
+Material: "Introdução"
+Daniella Torelli postou um novo material: Introdução
+Criado em: 30 de abr.30 de abr.
+QUA - Gerência de Configuração e Controle de Versão: Entrega contínua (84) 84
+    /* Reset de estilos básicos */
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+  
+      /* Estilos globais */
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f9;
+        color: #333;
+        line-height: 1.6;
+        padding: 20px;
+      }
+  
+      h1 {
+        text-align: center;
+        color: #2e3d49;
+        margin-bottom: 20px;
+      }
+  
+      h2 {
+        color: #2e3d49;
+        margin-top: 20px;
+      }
+  
+      .container {
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #fff;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      }
+  
+      .section {
+        margin-bottom: 20px;
+      }
+  
+      .intro {
+        font-size: 1.2em;
+        margin-bottom: 20px;
+        color: #555;
+      }
+  
+      .content {
+        font-size: 1.1em;
+        line-height: 1.8;
+        color: #444;
+      }
+  
+      .image {
+        width: 100%;
+        max-width: 600px;
+        display: block;
+        margin: 20px auto;
+      }
+  
+      table {
+        width: 100%;
+        margin-top: 30px;
+        border-collapse: collapse;
+        background-color: #fff;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      }
+  
+      th, td {
+        padding: 10px;
+        text-align: left;
+        border: 1px solid #ddd;
+      }
+  
+      th {
+        background-color: #f2f2f2;
+        color: #333;
+      }
+  
+      .footer {
+        text-align: center;
+        font-size: 0.9em;
+        color: #777;
+        margin-top: 40px;
+      }
+styles.css
+Exibindo styles.css…
